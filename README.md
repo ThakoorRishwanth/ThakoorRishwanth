@@ -2,41 +2,57 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for creating innovative and user-friendly web applications. Here’s a bit about me:
 
+---
+
 ## 👀 Interests
-- 🎬 Watching Movies
-- 🏏 Playing Cricket
-- 🍳 Cooking
+- 🎬 **Watching Movies**
+- 🏏 **Playing Cricket**
+- 🍳 **Cooking**
+
+---
 
 ## 🌱 Currently Learning
 - Full Stack Web Development
 
+---
+
 ## 💞️ Looking to Collaborate On
-I’m looking to collaborate on projects that involve developing innovative and user-friendly web applications. With my expertise in the MERN stack and modern UI frameworks like Chakra UI and Material UI, I am particularly interested in:
-- E-commerce Platforms
-- Social Media Applications
-- Web Applications requiring seamless integration of front-end and back-end technologies
+
+I’m looking to collaborate on projects that involve developing innovative and user-friendly web applications. With my expertise in the **MERN stack** and modern UI frameworks like **Chakra UI** and **Material UI**, I am particularly interested in:
+
+- **E-commerce Platforms**
+- **Social Media Applications**
+- **Web Applications** requiring seamless integration of front-end and back-end technologies
 
 My experience in leading project teams and collaborating with cross-functional teams positions me to contribute technically and guide and mentor team members to achieve project milestones. I aim to work on projects that challenge me to grow as a developer and contribute to meaningful, real-world applications. I am always keen to learn new technologies and methodologies and excited about opportunities that allow me to continuously evolve my skills while making a positive impact.
 
+---
+
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/rishwanth-thakoor/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishwanth%20Thakoor-blue)](https://www.linkedin.com/in/rishwanth-thakoor/)
+
+---
 
 ## 😄 Pronouns
 - He/Him
 
+---
+
 ## ⚡ Fun Fact
 I have a background in hotel management but transitioned to full-stack web development, combining my passion for technology with my experience in hospitality.
+
+---
 
 ## 📚 Extended Description
 
 ### Professional Background
-I began my career in hotel management, where I developed strong project management, communication, and leadership skills. Over time, I discovered my passion for technology and decided to transition into web development. This unique combination of hospitality and tech skills allows me to approach projects with a user-centric mindset and deliver exceptional results.
+I began my career in **hotel management**, where I developed strong project management, communication, and leadership skills. Over time, I discovered my passion for technology and decided to transition into web development. This unique combination of hospitality and tech skills allows me to approach projects with a user-centric mindset and deliver exceptional results.
 
 ### Technical Skills
-- **Frontend Development**: Proficient in HTML, CSS, JavaScript, and modern frameworks like React, Redux, Chakra UI, and Material UI. I excel at creating responsive and interactive user interfaces.
-- **Backend Development**: Experienced in Node.js and Express.js, with a focus on building scalable and efficient RESTful APIs.
-- **Database Management**: Skilled in MongoDB for handling data storage and retrieval in web applications.
-- **Tools & Technologies**: Comfortable using Git, GitHub, npm, and Postman for version control, package management, and API testing.
+- **Frontend Development**: Proficient in **HTML**, **CSS**, **JavaScript**, and modern frameworks like **React**, **Redux**, **Chakra UI**, and **Material UI**. I excel at creating responsive and interactive user interfaces.
+- **Backend Development**: Experienced in **Node.js** and **Express.js**, with a focus on building scalable and efficient RESTful APIs.
+- **Database Management**: Skilled in **MongoDB** for handling data storage and retrieval in web applications.
+- **Tools & Technologies**: Comfortable using **Git**, **GitHub**, **npm**, and **Postman** for version control, package management, and API testing.
 
 ### Projects & Experience
 Throughout my career, I have successfully led project teams to deliver web applications on time and within scope. Some of my notable projects include:
