@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ThakoorRishwanth
+# 👋 Hi, I’m ThakoorRishwanth
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for creating innovative and user-friendly web applications. Here’s a bit about me:
 
