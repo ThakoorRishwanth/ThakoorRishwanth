@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for creating innovative and user-friendly web applications. Here’s a bit about me:
 
+![Collaboration GIF](https://i.pinimg.com/originals/11/1a/21/111a218fa1455232512f17ee86d98eff.gif)
 ---
 
 ## 👀 Interests
@@ -26,6 +27,7 @@ I’m looking to collaborate on projects that involve developing innovative and 
 
 My experience in leading project teams and collaborating with cross-functional teams positions me to contribute technically and guide and mentor team members to achieve project milestones. I aim to work on projects that challenge me to grow as a developer and contribute to meaningful, real-world applications. I am always keen to learn new technologies and methodologies and excited about opportunities that allow me to continuously evolve my skills while making a positive impact.
 
+
 ---
 
 ## 📫 How to Reach Me
@@ -40,6 +42,8 @@ My experience in leading project teams and collaborating with cross-functional t
 
 ## ⚡ Fun Fact
 I have a background in hotel management but transitioned to full-stack web development, combining my passion for technology with my experience in hospitality.
+
+![Tech GIF](https://i.pinimg.com/originals/6b/fd/37/6bfd37fece3f505417478ae4e2257150.gif)
 
 ---
 
@@ -75,6 +79,8 @@ I have a background in hotel management but transitioned to full-stack web devel
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
+![Tech Tools GIF](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+
 ---
 
 ## 📚 Extended Description
@@ -98,6 +104,8 @@ Throughout my career, I have successfully led project teams to deliver web appli
 - **Leadership & Collaboration**: My experience in leading projects and collaborating with cross-functional teams makes me a valuable team member and mentor.
 - **Continuous Learning**: I am always eager to learn new technologies and methodologies, staying up-to-date with industry trends to deliver cutting-edge solutions.
 - **Passion for Impact**: I strive to work on projects that make a positive impact, whether it's improving user experiences or solving real-world problems.
+
+![Development GIF](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 ---
 
