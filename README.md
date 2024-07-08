@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for creating innovative and user-friendly web applications. Here’s a bit about me:
 
-![Collaboration GIF](https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif)
+![Collaboration GIF](https://raw.githubusercontent.com/michieriffic/say-hello-world/master/HelloWorld.png)
 ---
 
 ## 👀 Interests
