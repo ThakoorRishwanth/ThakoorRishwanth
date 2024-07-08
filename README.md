@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for creating innovative and user-friendly web applications. Here’s a bit about me:
 
-![Collaboration GIF](https://i.pinimg.com/originals/11/1a/21/111a218fa1455232512f17ee86d98eff.gif)
+![Collaboration GIF](https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif)
 ---
 
 ## 👀 Interests
@@ -42,8 +42,6 @@ My experience in leading project teams and collaborating with cross-functional t
 
 ## ⚡ Fun Fact
 I have a background in hotel management but transitioned to full-stack web development, combining my passion for technology with my experience in hospitality.
-
-![Tech GIF](https://i.pinimg.com/originals/6b/fd/37/6bfd37fece3f505417478ae4e2257150.gif)
 
 ---
 
